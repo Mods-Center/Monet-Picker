@@ -13,26 +13,26 @@
 
 </div>
 
-## ✨ Features
+## Features
 - Pick Monet colours independently of the wallpaper
 - Ported from AOSP (DerpFest), with bug fixes and unused code removed
 - Android 12 through Android 16
 - Works on OriginOS, ColorOS and similar OEM ROMs
 
-## 📋 Requirements
+## Requirements
 - Android 12 or newer
 - Magisk, KernelSU or APatch
 
-## 📥 Installation
+## Installation
 1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/Monet-Picker/releases/latest).
 2. Flash it in Magisk, KernelSU or APatch.
 3. Reboot your device.
 
-## ⚠️ Notes
+## Notes
 - Magisk Delta may not be compatible.
 - If you use this in your ROM, please credit Mods Center.
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fff5308b-27e7-44c4-82a6-79222f3e92bb" width="23%" alt="Monet Picker"/>
   <img src="https://github.com/user-attachments/assets/3ee88ae3-6d97-43f7-98a8-cae2766c213a" width="23%" alt="Monet Picker"/>
@@ -44,8 +44,8 @@
 
 <div align="center">
 
-Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/Monet-Picker/issues)
+[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/Monet-Picker/issues)
 
 </div>
